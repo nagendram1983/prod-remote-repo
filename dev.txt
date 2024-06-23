@@ -1,1 +1,2 @@
-first commit in dev.txt;
+first commit in dev.txt
+second commit in dev.txt
